@@ -1,0 +1,8 @@
+{
+  "name": "Eco-Guardian",
+  "description": "Virtual pet care combined with real-life community waste bartering. Feed your monster, exchange household trash with your neighbors, and lead the zero-waste movement!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
